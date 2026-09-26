@@ -8,8 +8,7 @@ This repository contains hands-on FastAPI code snippets covering core to advance
 Simple `GET` routes to understand FastAPI basics — home route, about page, and returning JSON responses.
 
 ### 2. Path Parameters
-Fetching dynamic data from the URL using path parameters (e.g. `/users/{user_id}`).
-
+Fetching dynamic data from the URL using path parameters (e.g. `/users/{user_id}`.
 ### 3. Query Parameters
 Handling optional and default query parameters (e.g. `/products?limit=10`).
 
